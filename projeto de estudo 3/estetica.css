@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas{
+    margin-top: 1px;
+    border: 1px solid black;
+    margin-left: 1rem;
+    background-color: whitesmoke;
+}
